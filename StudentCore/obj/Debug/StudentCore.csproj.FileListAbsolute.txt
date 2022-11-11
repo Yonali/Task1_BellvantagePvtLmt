@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebSite1\StudentCore\bin\Debug\StudentCore.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebSite1\StudentCore\bin\Debug\StudentCore.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebSite1\StudentCore\obj\Debug\StudentCore.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WebSite1\StudentCore\obj\Debug\StudentCore.pdb
+D:\sample Code & project\Demo\WebSite1\StudentCore\bin\Debug\StudentCore.dll
+D:\sample Code & project\Demo\WebSite1\StudentCore\bin\Debug\StudentCore.pdb
+D:\sample Code & project\Demo\WebSite1\StudentCore\obj\Debug\StudentCore.dll
+D:\sample Code & project\Demo\WebSite1\StudentCore\obj\Debug\StudentCore.pdb
+D:\sample Code & project\Demo\WebSite1\StudentCore\obj\Debug\StudentCore.csproj.CoreCompileInputs.cache
+D:\sample Code & project\Demo\WebSite1\StudentCore\obj\Debug\StudentCore.csproj.AssemblyReference.cache
+F:\New folder\My task\WebSite1\StudentCore\bin\Debug\StudentCore.dll
+F:\New folder\My task\WebSite1\StudentCore\bin\Debug\StudentCore.pdb
+F:\New folder\My task\WebSite1\StudentCore\obj\Debug\StudentCore.csproj.AssemblyReference.cache
+F:\New folder\My task\WebSite1\StudentCore\obj\Debug\StudentCore.csproj.CoreCompileInputs.cache
+F:\New folder\My task\WebSite1\StudentCore\obj\Debug\StudentCore.dll
+F:\New folder\My task\WebSite1\StudentCore\obj\Debug\StudentCore.pdb
